@@ -1,8 +1,7 @@
 # 💫 About Me:
 👋 Hey there! I'm Md Shahil 🚀<br>I'm a passionate developer and problem solver, currently pursuing my B.Tech in Computer Science at Bennett University (9.84 CGPA 📚). I love building projects, cracking DSA problems (400+ solved on Leetcode 💡), and learning new technologies every day!<br><br>🔭 I’m currently working on: Full-stack web development projects & mastering system design.<br>👯 I’m looking to collaborate on: Open-source projects, web apps, and innovative tech ideas!<br>🤝 I’m looking for help with: Advanced DSA techniques & large-scale system optimizations.<br>🌱 I’m currently learning: DevOps, Cloud Computing & Backend Optimization.<br>💬 Ask me about: Web Development, DSA, React.js, Node.js, and API integrations.<br>⚡ Fun fact: I can turn caffeine into clean code ☕💻 and I love binge-watching tech documentaries!
 
-| <img src="https://media4.giphy.com/media/cDdBdU3rJhfutZ2qbR/giphy.gif" width="200" height="150"/> | <img src="https://media2.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif" width="200" height="150"/> | <img src="https://media4.giphy.com/media/mGasM06BJXWs7KLubN/giphy.gif" width="200" height="150"/> |
-|---|---|---|
+<img src="https://s1.ezgif.com/tmp/ezgif-160b79a62bbdb0.gif" width="200" height="150"/>
 
 
 
